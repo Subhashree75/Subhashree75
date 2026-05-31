@@ -1,7 +1,7 @@
 # Hi there, I'm Subhashree Dash
 ## About Me
 
-Embedded Firmware Engineer with 2+ years of experience
+Embedded Firmware Engineer with almost 3 years of experience
 Working with Embedded C, STM32, and Infineon XMC Microcontrollers
 Experienced in I2C, SPI, UART, CAN, RS485, and BLE-based OTA Updates
 Currently learning about AI and RAG 
