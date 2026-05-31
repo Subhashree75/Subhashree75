@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @Subhashree75
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML5
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi there, I'm Subhashree Dash
+## About Me
 
-<!---
-Subhashree75/Subhashree75 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Embedded Firmware Engineer with 2+ years of experience
+Working with Embedded C, STM32, and Infineon XMC Microcontrollers
+Experienced in I2C, SPI, UART, CAN, RS485, and BLE-based OTA Updates
+Currently learning about AI and RAG 
+Interested in Embedded Systems, IoT, and Firmware Development
+Looking to collaborate on Embedded and IoT Projects
+
+## Skills
+Embedded c/c++, python, HTML, Django
+Communication protocols - I2C, SPI, UART, CAN, RS485
+BLE OTA Updates
+Python Scripting
+
+## Contact
+Email: subhashreekunu1@gmail.com
+GitHub: https://github.com/Subhashree75
